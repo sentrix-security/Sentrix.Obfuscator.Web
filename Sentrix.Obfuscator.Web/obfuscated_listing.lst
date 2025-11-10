@@ -1,0 +1,10 @@
+function [main]: 
+	[00000] JMP 0 1 0
+	[00001] GETGLOBAL 0 0 0
+	[00002] LOADK 1 1 0
+	[00003] CALL 0 2 1
+	[00004] JMP 0 5 0
+	[00005] RETURN 0 1 0
+
+end
+
